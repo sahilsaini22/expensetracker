@@ -1,0 +1,59 @@
+h1 {
+    color:#FF5D00;
+    font-family: 'Lucida Handwriting', Cursive; 
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.card_i {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    width: 100%;
+    float:none;
+    text-align: center;
+  }
+
+.card_noshadow {
+    width: 100%;
+    text-align: center;
+  }
+
+.card_holder {
+    width: 100%;
+    text-align: center;
+}  
+
+.card_left {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.1);
+    width: 28%;
+    height: 32px;
+    min-width: 100px;
+    vertical-align: middle;
+    float: left;
+    background-color: #D8E1E7;
+}
+
+.card_right {
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.1);
+    float: right;
+    height: 32px;
+    min-width: 100px;
+    vertical-align: middle;
+    width: 70%;
+}
+
+.child_page {
+    width:100%;
+    margin-left:0%;
+    margin-right:0% ;
+    margin-top:0px;
+}  
+
+
+#map {
+    height: 400px;
+    width: 100%;  
+  }
+
